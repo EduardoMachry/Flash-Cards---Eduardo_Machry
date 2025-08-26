@@ -3,6 +3,15 @@ body {
     font-family: " Bai Jamjuree", sans-serif;
 }
 
+#container{
+    display:flex;
+}
+
+.cartao{
+    margin: 1rem 1rem;
+    background-color: aqua;
+}
+
 footer {
     background-color: black;
     color: white;
