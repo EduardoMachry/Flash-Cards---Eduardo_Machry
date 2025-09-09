@@ -12,9 +12,9 @@ criaCartao(
 )
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'História',
+    'Quem foi o líder da Revolução Russa de 1917?',
+    'Vladimir Lenin.'
 )
 
 criaCartao(
