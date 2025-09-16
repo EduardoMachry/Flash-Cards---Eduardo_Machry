@@ -5,12 +5,12 @@ function criaCartao(categoria, pergunta, resposta) {
 
     cartao.inenerHTML = `
     <div class="cartao__conteudo">
-    <h3>${CATEGORIA}</h3>
-    <Div class="cartao__conteudo__pergunta">
-    <p> </p> ${pergunta}</p>
+    <h3>${categoria}</h3>
+    <div class="cartao__conteudo__pergunta">
+    <p> ${pergunta} </p>
     </Div>
     <div class="cartao__conteudo__resposta">
-    <p> </p> ${resposta}</p>
+    <p> ${resposta}</p> 
     </div>
     </div> `
 
