@@ -18,50 +18,50 @@ criaCartao(
 )
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'Conhecimentos Gerais',
+    'Qual foi o primeiro satélite lançado para a órbita terrestre?',
+    'Sputnik 1.'
 )
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'Conhecimentos Gerais',
+    'Qual país tem o maior número de idiomas oficiais?',
+    'Índia.'
 )
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'Química',
+    'Quantos elementos químicos estão presente na tabela periódica? ',
+    '118 elementos.'
 )
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'Geografia',
+    'Qual é o maior país da África?',
+    'Argélia.'
 )
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'Curiosidades',
+    'Qual civilização antiga foi responsável pela invenção do concreto?',
+    'Romanos.'
 )
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'Geografia',
+    'Qual é o ponto mais profundo conhecido pelos oceanos?',
+    'Fossa das Marianas'
 )
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'Conhecimentos Gerais',
+    'Qual país foi o primeiro a dar direito de voto às mulheres?',
+    'Nova Zelândia.'
 )
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'Curioidades',
+    'Qual animal é capaz de dormir com metade do cérebro acordado?',
+    'Golfinho'
 )
 
