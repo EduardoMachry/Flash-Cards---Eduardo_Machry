@@ -60,6 +60,7 @@ body {
 .cartao__conteudo__resposta p {
     color: var(--card-back-color);
     font-weight: 700;
+    padding: 20px;
 }
 
 .cartao:hover .cartao__conteudo {
