@@ -71,7 +71,7 @@ body {
 .cartao__conteudo__resposta {
     backface-visibility: hidden;
     position: absolute;
-    height: 70%;
+    height: 20%;
     width: 100%;
 }
 
