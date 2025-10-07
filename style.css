@@ -102,4 +102,16 @@ footer p {
     body{
         background-color:red ;
     }
+
+    .cartao{
+        flex: 1 0 calc(100% - 1rem);
+    }
+
+    .cartao__conteudo h3{
+        font-size: 3vw;
+    }
+
+    .cartao__conteudo p{
+        font-size: 3.8vw;
+    }
 }
